@@ -25,7 +25,7 @@
                     </div>
 
                     <div class="col-md-3 mb-4 col-sm-6 col-lg-3 mobile-cover">
-                        <a href="http://telecentrecameroon.ovh:8080/fr-fr/learn/#/topics" rel="bookmark" target="_blank">
+                        <a href="http://goon.bibemi.com:8080/fr-fr/learn/#/topics" rel="bookmark" target="_blank">
                             <div class="bg-goon p-2 style-div-md-4">
                                 <img src="<?= get_template_directory_uri() . '/src/img/education11.png' ?>" alt="">
 
@@ -43,7 +43,7 @@
 
 
                     <div class="col-md-3 mb-4 col-sm-6 col-lg-3 mobile-cover">
-                        <a href="http://telecentrecameroon.ovh/information" rel="bookmark">
+                        <a href="/information" rel="bookmark">
                             <div class="p-2 bg-goon style-div-md-4">
                                 <img src="<?= get_template_directory_uri() . '/src/img/info.png' ?>" alt="">
 
@@ -59,7 +59,7 @@
                         </a>
                     </div>
 
-                    <div class="col-md-3 mb-4 col-sm-6 col-lg-3 mobile-cover">
+                    <!-- <div class="col-md-3 mb-4 col-sm-6 col-lg-3 mobile-cover">
                         <a href="http://telecentrecameroon.ovh/" rel="bookmark">
                             <div class="p-2 bg-goon style-div-md-4">
                                 <img src="<?= get_template_directory_uri() . '/src/img/message.png' ?>" alt="">
@@ -71,14 +71,14 @@
                                 <?php } ?>
                                 <!-- <div class="">
                                     <p>Ce n’est pas mon premier site réalisé sur WordPress et je n’avais jamais eu à configurer les permaliens, </p>
-                                </div> -->
+                                </div> 
                             </div>
                         </a>
-                    </div>
+                    </div>-->
 
 
                     <div class="col-md-3 mb-4 col-sm-6 col-lg-3 mobile-cover">
-                        <a href="http://telecentrecameroon.ovh/" rel="bookmark">
+                        <a href="http://goon.bibemi.com:5000" rel="bookmark">
                             <div class="p-2 bg-goon style-div-md-4">
                                 <img src="<?= get_template_directory_uri() . '/src/assets/free-services/commerce.png' ?>" alt="">
                                 <?php if (strpos(home_url('/'), 'lang=en') !== false) { ?>
@@ -110,7 +110,7 @@
                         </a>
                     </div>
                     <div class="col-md-3 mb-4 col-sm-6 col-lg-3 mobile-cover">
-                        <a href="http://owncloud.telecentrecameroon.ovh/" rel="bookmark">
+                        <a href="http://owncloud.bibemi.com/" rel="bookmark">
                             <div class="style-div-md-4 p-2 bg-goon">
                                 <img src="<?= get_template_directory_uri() . '/src/img/Espace-citoyens.png' ?>" alt="">
                                 <?php if (strpos(home_url('/'), 'lang=en') !== false) { ?>
