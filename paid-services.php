@@ -28,7 +28,7 @@
                         </a>
                     </div>
                     <div class="free col">
-                        <a href="http://owncloud.telecentrecameroon.ovh/" rel="bookmark" style="background: #f5f5f5 !important">
+                        <a href="http://espace.bibemi.cm" rel="bookmark" style="background: #f5f5f5 !important">
                             <div class="p-2 style-div-md-4 bg-white" style="background: #f5f5f5 !important">
                                 <img src="<?= get_template_directory_uri() . '/src/img/stockage.png' ?>" alt="" style="background: #f5f5f5 !important">
                                 <div class="arrow" style="max-width: 201px; margin-right:auto; margin-left:auto;margin-top: -5px">
@@ -47,7 +47,7 @@
                         </a>
                     </div>
                     <div class="free col">
-                        <a href="http://owncloud.telecentrecameroon.ovh/" rel="bookmark" style="background: #f5f5f5 !important">
+                        <a href="http://espace.bibemi.cm" rel="bookmark" style="background: #f5f5f5 !important">
                             <div class="p-2 style-div-md-4 bg-white" style="background: #f5f5f5 !important">
                                 <img src="<?= get_template_directory_uri() . '/src/img/applications.png' ?>" alt="" style="background: #f5f5f5 !important">
                                 <div class="arrow" style="max-width: 201px; margin-right:auto; margin-left:auto;margin-top: -5px">
@@ -67,7 +67,7 @@
                 </div>
             </div>
         </div>
-        <div class="col paids-remove" ></div>
+        <div class="col paids-remove"></div>
         <!-- la bare de recherche -->
     </div>
 </div>
